@@ -1,0 +1,115 @@
+/* browse our collection */
+
+.btn1
+{
+    background-color: rgb(226, 43, 128);
+    color:black
+    
+}
+
+.btn1:hover
+{
+    background-color: rgb(216, 106, 158);
+}
+
+.btn-primary
+{
+    background-color: rgb(226, 174, 43);
+    color:black
+    
+}
+
+.btn-primary:hover
+{
+    background-color: rgb(231, 214, 120);
+}
+
+.test3
+{
+    background-color: rgb(66, 43, 18);
+}
+
+.test4,.test2
+{
+    background-color: rgb(235, 178, 114);
+}
+
+.test5,.test1
+{
+    background-color: rgb(241, 203, 159);
+}
+
+
+
+/* styling for parralex */
+
+.parallex
+{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(watch15.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+}
+
+.parallex h1
+{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.parallex p{
+    font-size:25px;
+
+
+}
+
+.btn2{
+    height: 40px;
+    width: 110px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn2:hover{
+    background-color: white;
+    color: yellowgreen;
+    transition: 0.3s;
+}
+
+.btn3{
+    height: 40px;
+    width: 140px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn3:hover{
+    background-color: white;
+    color: yellowgreen;
+    transition: 0.3s;
+}
+
+/* materials we use */
+
+.ex3
+{
+    background-color: rgb(95, 97, 233);
+}
+
+.ex4,.ex2
+{
+    background-color: rgb(137, 139, 241);
+}
+
+.ex5,.ex1
+{
+    background-color: rgb(169, 170, 239);
+}

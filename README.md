@@ -1,2 +1,2 @@
-# YHills-Minor-Project
-This contains YHills minor project
+# E-com website-Project
+This contains ecom website project
